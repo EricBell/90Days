@@ -1,0 +1,72 @@
+VOIDRULES - CODING RULES FOR BEGINNERS
+========================================
+
+Created: July 2025
+Purpose: Simple coding rules to keep things organized and prevent mistakes
+
+========================================
+JAVASCRIPT RULES
+========================================
+
+VARIABLES:
+- Always use `let` or `const`, never `var`
+- Use `const` for values that don't change
+- Use `let` for values that do change
+- Give variables clear names: `userName` not `x`
+
+CODE STYLE:
+- Always end statements with semicolons (;)
+- Use single quotes for strings: 'hello'
+- Indent with 2 spaces
+- Keep lines under 80 characters
+- Put spaces around operators: `x + y` not `x+y`
+
+SAFETY RULES:
+- Use `===` instead of `==` for comparisons
+- Always use curly braces for if statements
+- Declare variables before using them
+
+========================================
+PYTHON RULES
+========================================
+
+VARIABLES:
+- Use descriptive names: `user_name` not `x`
+- Use lowercase with underscores: `my_variable`
+- Don't leave unused variables in your code
+
+CODE STYLE:
+- Indent with 4 spaces (Python requires proper indenting)
+- Keep lines under 88 characters
+- Put imports at the top of files
+- Leave 2 blank lines between functions
+
+SAFETY RULES:
+- Don't use undefined variables
+- Add comments to explain complex code
+- Keep functions simple and focused
+
+========================================
+GENERAL RULES FOR BOTH LANGUAGES
+========================================
+
+- Write code like you're explaining it to someone else
+- Test your code frequently as you write it
+- Save your work often
+- Use meaningful names for everything
+
+========================================
+WHY THESE RULES MATTER
+========================================
+
+They prevent common mistakes and make your code professional from day one.
+
+========================================
+BEGINNER NOTES
+========================================
+
+- Start with these basic rules
+- Don't worry about memorizing everything at once
+- Focus on one rule at a time as you learn
+- These rules will become natural with practice
+- When in doubt, choose clarity over cleverness
