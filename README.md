@@ -46,3 +46,6 @@ npm install dotenv
 
 # Add to gitignore
 echo ".env" >> .gitignore
+
+# diagram this app
+npx js2mermaid cookbook/project1/ > diagram.mmd
